@@ -9,17 +9,15 @@
 
 
 
-- 🔭 I’m currently working as **front-end developer**
+- 🔭 I’m currently working as **full-stack developer**
 
-- 🌱 I’m currently learning **android - Blockchain**
+- 🌱 I’m currently learning **web - android - Blockchain**
 
-- 👯 I’m looking to collaborate on [learn-android-dev](https://github.com/driouecheMed/learn-android-dev)
+- 👯 Looking to collaborate? **I'm always open to collaborating on new projects related to software development. Feel free to reach out to me via email or social media.**
 
-- 💬 Ask me about **react, javaScript, java, python and C++**
+- 💬 Ask me about **react, javaScript, java, python, c# or C++**
 
 - 📫 Reach me [here](https://ahbari-m.github.io/ahbari-link-in-bio/)
-
-
 
 
 
